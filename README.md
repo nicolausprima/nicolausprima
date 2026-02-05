@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 👋 Hi, I’m @nicolausprima Data Science & Machine Learning Enthusiast
+### 👋 Hi, I’m @nicolausprima Data Science & Machine Learning Enthusiast ##
 
 * 🔭 I’ve completed **6 intensive projects** during my break, focusing on Fraud Detection, Classification, and ANN.
 * 🌱 I’m currently diving deep into **Machine Learning Workflows** & **Deep Learning**.
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me: ##
 <p align="left">
 <a href="https://linkedin.com/in/nicolausprima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolausprima" height="30" width="40" /></a>
 <a href="https://instagram.com/nicolausprima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolausprima" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack: ##
 
 ### 🐍 Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
