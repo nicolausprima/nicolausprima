@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-### 👋 Hi, I’m @nicolausprima
-**Data Science & Machine Learning Enthusiast**
+### 👋 Hi, I’m @nicolausprima Data Science & Machine Learning Enthusiast
 
 * 🔭 I’ve completed **6 intensive projects** during my break, focusing on Fraud Detection, Classification, and ANN.
 * 🌱 I’m currently diving deep into **Machine Learning Workflows** & **Deep Learning**.
@@ -38,18 +37,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-
----
-
-## 📈 GitHub Stats:
-<p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolausprima&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolausprima&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Recent Projects:
-* **Financial Fraud Detection:** Benchmark model menggunakan XGBoost & LightGBM pada imbalanced dataset.
-* **Diabetes Classification:** Implementasi Neural Networks (ANN) menggunakan PyTorch.
-* **Weather Precipitation Analysis:** Prediksi curah hujan menggunakan berbagai algoritma machine learning.
