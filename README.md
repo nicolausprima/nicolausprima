@@ -1,9 +1,55 @@
 # 💫 About Me:
-👋 Hi, I’m @nicolausprima<br>👀 I’m interested in coding<br>🌱 I’m currently learning about data<br>⚡ Fun fact: im like to learn something new
 
+### 👋 Hi, I’m @nicolausprima
+**Data Science & Machine Learning Enthusiast**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicolausprima) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nicolausprima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolausprimaa@gmail.com) 
+* 🔭 I’ve completed **6 intensive projects** during my break, focusing on Fraud Detection, Classification, and ANN.
+* 🌱 I’m currently diving deep into **Machine Learning Workflows** & **Deep Learning**.
+* 📊 I love turning raw data into actionable insights using **Python** and **Tableau**.
+* ⚡ Fun fact: I enjoy deconstructing complex algorithms to see how they work under the hood.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+---
+
+## 🌐 Connect with Me:
+<p align="left">
+<a href="https://linkedin.com/in/nicolausprima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolausprima" height="30" width="40" /></a>
+<a href="https://instagram.com/nicolausprima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolausprima" height="30" width="40" /></a>
+<a href="mailto:nicolausprimaa@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="35" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+### 🐍 Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### 📊 Visualization & Databases
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+---
+
+## 📈 GitHub Stats:
+<p align="left">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolausprima&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolausprima&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Recent Projects:
+* **Financial Fraud Detection:** Benchmark model menggunakan XGBoost & LightGBM pada imbalanced dataset.
+* **Diabetes Classification:** Implementasi Neural Networks (ANN) menggunakan PyTorch.
+* **Weather Precipitation Analysis:** Prediksi curah hujan menggunakan berbagai algoritma machine learning.
