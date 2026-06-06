@@ -1,106 +1,132 @@
 <div align="center">
 
-<!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=6EE7F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Nicolaus+Prima+👋;Data+Science+%26+ML+Enthusiast;Turning+Data+into+Insights+📊;Deep+Learning+Explorer+🧠)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f13,50:1a1a2e,100:0f0f13&height=120&section=header" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=nicolausprima&label=Profile+Views&color=6ee7f7&style=flat-square" alt="profile views" />
+```
+ ███╗   ██╗██╗ ██████╗ ██████╗ ██╗      █████╗ ██╗   ██╗███████╗
+ ████╗  ██║██║██╔════╝██╔═══██╗██║     ██╔══██╗██║   ██║██╔════╝
+ ██╔██╗ ██║██║██║     ██║   ██║██║     ███████║██║   ██║███████╗
+ ██║╚██╗██║██║██║     ██║   ██║██║     ██╔══██║██║   ██║╚════██║
+ ██║ ╚████║██║╚██████╗╚██████╔╝███████╗██║  ██║╚██████╔╝███████║
+ ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
+
+**`Data Science & ML · Surabaya, Indonesia`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=480&lines=Turning+raw+data+into+actionable+insight;ML+pipelines+%7C+Deep+Learning+%7C+Data+Viz;Why+it+works+%3E+that+it+works)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=nicolausprima&label=visitors&color=6ee7f7&style=flat-square" />
 
 </div>
 
 ---
 
-## 💫 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `whoami`
 
 ```python
-nicolaus = {
-    "name"       : "Nicolaus Prima",
-    "handle"     : "@nicolausprima",
-    "location"   : "Surabaya, Indonesia 🇮🇩",
-    "focus"      : ["Machine Learning", "Deep Learning", "Data Science"],
-    "projects"   : 6,   # intensive projects during break
-    "domains"    : ["Fraud Detection", "Classification", "ANN"],
-    "tools"      : ["Python", "PyTorch", "Scikit-Learn", "Tableau"],
-    "fun_fact"   : "I enjoy deconstructing algorithms to see how they work 🔍"
+profile = {
+  "name"     : "Nicolaus Prima",
+  "alias"    : "@nicolausprima",
+  "base"     : "Surabaya 🇮🇩",
+  "focus"    : ["ML", "Deep Learning", "Data Science"],
+  "domains"  : ["Fraud Detection", "Classification", "ANN"],
+  "stack"    : ["Python", "PyTorch", "Scikit-Learn", "Tableau"],
+  "motto"    : "knowing *why* > knowing that it works"
 }
 ```
 
-- 🔭 Completed **6 intensive projects** focused on Fraud Detection, Classification & ANN
-- 🌱 Currently diving deep into **ML Workflows** & **Deep Learning**
-- 📊 Love turning raw data into actionable insights with **Python** and **Tableau**
-- ⚡ I enjoy deconstructing complex algorithms — *knowing why* > knowing that it works
+</td>
+<td width="45%" valign="top">
+
+### `what I'm doing`
+
+- 🔬 &nbsp;Completed **6 intensive ML projects** — Fraud Detection, Classification, ANN
+- 📈 &nbsp;Deep into **ML Workflows** & **Deep Learning architecture**
+- 🔍 &nbsp;I deconstruct algorithms to understand the mechanics, not just the output
+- 🛠 &nbsp;Building end-to-end pipelines — from raw CSV to insight
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect with Me
+### `stack`
 
-<p align="left">
-<a href="https://linkedin.com/in/nicolausprima" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-nicolausprima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/nicolausprima" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-nicolausprima-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:nicolausprimaa@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-nicolausprimaa-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+<div align="left">
 
----
+**Core**
 
-## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=6ee7f7)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=6ee7f7)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=6ee7f7)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=6ee7f7)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=6ee7f7)
 
-### 🐍 Programming & Data Science
+**Visualization & Storage**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1a1a2e?style=flat-square&logo=tableau&logoColor=6ee7f7)
+![Plotly](https://img.shields.io/badge/Plotly-1a1a2e?style=flat-square&logo=plotly&logoColor=6ee7f7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1a2e?style=flat-square&logo=python&logoColor=6ee7f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=6ee7f7)
 
-### 📊 Visualization & Databases
+**Environment**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=flat-square&logo=jupyter&logoColor=6ee7f7)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visual-studio-code&logoColor=6ee7f7)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=6ee7f7)
+![Kaggle](https://img.shields.io/badge/Kaggle-1a1a2e?style=flat-square&logo=kaggle&logoColor=6ee7f7)
 
-### 🛠 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolausprima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6ee7f7&icon_color=a78bfa&text_color=e2e8f0&ring_color=6ee7f7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolausprima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6ee7f7&text_color=e2e8f0" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolausprima&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=6ee7f7&ring=a78bfa&fire=34d399&currStreakLabel=6ee7f7" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
+### `featured projects`
 
-| Project | Domain | Key Tech |
-|---------|--------|----------|
-| 🔍 Fraud Detection System | Anomaly Detection | Python, Scikit-Learn, Imbalanced-learn |
-| 🧠 ANN Classifier | Deep Learning | PyTorch, NumPy, Pandas |
-| 📊 Data Classification Pipeline | ML Workflow | Scikit-Learn, Pandas, Matplotlib |
+| | Project | Domain | Stack |
+|---|---------|--------|-------|
+| `01` | **Fraud Detection System** | Anomaly Detection | Python · Scikit-Learn · Imbalanced-learn |
+| `02` | **ANN Classifier** | Deep Learning | PyTorch · NumPy · Pandas |
+| `03` | **Data Classification Pipeline** | ML Workflow | Scikit-Learn · Pandas · Matplotlib |
+
+---
+
+### `stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nicolausprima&show_icons=true&hide_border=true&bg_color=0f0f13&title_color=6ee7f7&icon_color=a78bfa&text_color=8892a4&ring_color=6ee7f7&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolausprima&layout=compact&hide_border=true&bg_color=0f0f13&title_color=6ee7f7&text_color=8892a4" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolausprima&hide_border=true&background=0f0f13&stroke=1a1a2e&ring=6ee7f7&fire=a78bfa&currStreakLabel=6ee7f7&sideLabels=8892a4&dates=8892a4" />
+
+</div>
+
+---
+
+### `reach me`
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=6ee7f7)](https://linkedin.com/in/nicolausprima)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=flat-square&logo=instagram&logoColor=6ee7f7)](https://instagram.com/nicolausprima)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=flat-square&logo=gmail&logoColor=6ee7f7)](mailto:nicolausprimaa@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
 ![snake animation](https://github.com/nicolausprima/nicolausprima/blob/output/github-contribution-grid-snake-dark.svg)
+
+<sub>`"The goal is to turn data into information, and information into insight."` — Carly Fiorina</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f13,50:1a1a2e,100:0f0f13&height=80&section=footer" width="100%" />
 
 </div>
