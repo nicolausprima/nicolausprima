@@ -34,5 +34,5 @@
 </p>
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Nicolaus Prima](https://linkedin.com/in/nicolausprima) *(Jangan lupa ubah link ini)*
-- **Email:** email.anda@domain.com *(Jangan lupa ubah ini juga)*
+- **LinkedIn:** [Nicolaus Prima](https://linkedin.com/in/nicolausprima) **
+- **Email:** nicolausprimaa@gmail.com **
