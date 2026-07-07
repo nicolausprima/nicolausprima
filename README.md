@@ -34,5 +34,5 @@
 </p>
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Nicolaus Prima](https://linkedin.com/in/nicolausprima) **
-- **Email:** nicolausprimaa@gmail.com **
+- **LinkedIn:** [Nicolaus Prima](https://linkedin.com/in/nicolausprima) 
+- **Email:** nicolausprimaa@gmail.com 
