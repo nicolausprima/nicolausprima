@@ -28,9 +28,11 @@
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
 - **Tools & Workflow:** Git, GitHub, Jupyter Notebooks
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://metrics.lecoq.io/nicolausprima?config_timezone=Asia%2FJakarta" alt="Nicolaus's GitHub Stats" />
+### 📈 GitHub Profile
+<p align="left">
+  <img src="https://img.shields.io/github/followers/nicolausprima?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nicolausprima?label=Stars&style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/nicolausprima?label=Repositories&style=social" alt="Repositories" />
 </p>
 
 ### 📫 Let's Connect!
