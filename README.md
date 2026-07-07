@@ -28,11 +28,13 @@
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
 - **Tools & Workflow:** Git, GitHub, Jupyter Notebooks
 
-### 📈 GitHub Profile
-<p align="left">
-  <img src="https://img.shields.io/github/followers/nicolausprima?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/nicolausprima?label=Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/nicolausprima?label=Repositories&style=social" alt="Repositories" />
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolausprima/nicolausprima/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolausprima/nicolausprima/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolausprima/nicolausprima/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ### 📫 Let's Connect!
