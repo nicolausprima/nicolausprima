@@ -30,7 +30,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolausprima&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nicolaus's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolausprima&theme=radical&hide_border=true" alt="Nicolaus's GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect!
