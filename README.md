@@ -30,7 +30,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolausprima&show_icons=true&theme=radical&count_private=true&cache_bypass=99" alt="Nicolaus's GitHub Stats" />
+  <img src="https://metrics.lecoq.io/nicolausprima?config_timezone=Asia%2FJakarta" alt="Nicolaus's GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect!
